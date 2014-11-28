@@ -1,0 +1,23 @@
+{
+  "name": "simple-validator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "validator": "^3.22.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/willianjedai/simple-validator.git"
+  },
+  "author": "Willian R. Sabião",
+  "license": "Beerware",
+  "bugs": {
+    "url": "https://github.com/willianjedai/simple-validator/issues"
+  },
+  "homepage": "https://github.com/willianjedai/simple-validator"
+}
